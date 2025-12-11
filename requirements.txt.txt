@@ -8,3 +8,8 @@ requests
 matplotlib
 torch
 norse
+
+pandas
+plotly
+streamlit
+pandas-datareader
