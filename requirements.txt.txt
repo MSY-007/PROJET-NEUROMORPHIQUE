@@ -1,5 +1,5 @@
 streamlit
-requests
-matplotlib
-torch==2.1.0
-norse==0.0.7
+torch
+torchvision
+torchaudio
+numpy
