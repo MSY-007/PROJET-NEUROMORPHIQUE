@@ -1,6 +1,5 @@
 streamlit
-torch==2.1.0
-norse
 requests
-pandas
 matplotlib
+torch==2.1.0
+norse==0.0.7
