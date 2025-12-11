@@ -13,3 +13,6 @@ pandas
 plotly
 streamlit
 pandas-datareader
+streamlit
+torch
+
