@@ -3,3 +3,8 @@ torch>=2.0.0
 matplotlib>=3.7.0
 requests>=2.28.0
 norse>=0.0.7
+streamlit
+requests
+matplotlib
+torch
+norse
