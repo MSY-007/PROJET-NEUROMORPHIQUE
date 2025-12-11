@@ -4,3 +4,4 @@ norse
 requests
 pandas
 matplotlib
+torch==2.3.1
