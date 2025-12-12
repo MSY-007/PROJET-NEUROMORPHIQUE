@@ -1,11 +1,6 @@
+txt
 streamlit
 torch
-torchvision
-torchaudio
-numpy
-pandas
-plotly
-streamlit
-yfinance
-pandas-datareader
-prophet
+matplotlib
+requests
+norse
